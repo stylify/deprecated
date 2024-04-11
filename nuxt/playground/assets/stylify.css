@@ -1,0 +1,27 @@
+:root {
+	--red: darkred;
+}
+.color\:steelblue{
+	color: steelblue
+}
+.font-weight\:bold{
+	font-weight: bold
+}
+.font-family\:arial{
+	font-family: arial
+}
+.text-align\:center{
+	text-align: center
+}
+.font-style\:italic{
+	font-style: italic
+}
+.font-size\:48px{
+	font-size: 48px
+}
+.color\:red{
+	color: red
+}
+.margin-top\:240px{
+	margin-top: 240px
+}
